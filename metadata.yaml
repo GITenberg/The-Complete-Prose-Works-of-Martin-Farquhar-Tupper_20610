@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '9413'
     url: http://www.gutenberg.org/2009/agents/9413
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20610#The-Complete-Prose-Works-of-Martin-Farquhar-Tupper
 gutenberg_issued: '2007-02-16'
 gutenberg_type: Text
 identifiers:
